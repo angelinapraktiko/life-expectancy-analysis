@@ -98,7 +98,7 @@ Dataset ini menggambarkan kondisi kesehatan, sosial, dan ekonomi berbagai negara
 * Beberapa variabel memiliki korelasi tinggi (redundan)
 
 
-## Insight Utama
+## Insight Keseluruhan
 
 * Umur harapan hidup meningkat dengan:
 
@@ -113,21 +113,12 @@ Dataset ini menggambarkan kondisi kesehatan, sosial, dan ekonomi berbagai negara
 
 ---
 
-## Teknologi yang Digunakan
+## Tools yang Digunakan
 
 * Python
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
-
----
-
-## Cara Menjalankan
-
-```bash
-pip install pandas numpy matplotlib seaborn
-python main.py
-```
 
 
